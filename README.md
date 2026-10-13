@@ -10,7 +10,7 @@ Part of [LawCodex](https://github.com/LawCodex): one public repository per juris
 
 Retrieved: **2026-10-13**. Language: Spanish (`es`).
 
-Status: ****full** for the legislative categories of the database (constitutions, codes, laws, decree-laws, legislative decrees and agreements, regulations); texts as published, consolidated texts only where the Asamblea published them.**
+Status: **full** for the legislative categories of the database (constitutions, codes, laws, decree-laws, legislative decrees and agreements, regulations); texts as published, consolidated texts only where the Asamblea published them.
 
 ## What is covered
 

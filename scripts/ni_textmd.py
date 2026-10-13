@@ -158,6 +158,7 @@ class Builder:
         self.last_heading = None
         self.open = {}
         self.sec_inside = [0, 0]
+        self.sec_tit = 0
         self.has_disp = False
 
     def flush(self):
@@ -178,7 +179,12 @@ class Builder:
         if kind == "DISP":
             self.has_disp = True
         if kind == "SECCION":
-            self.sec_inside[1 if self.open.get("CAPITULO") else 0] += 1
+            if self.open.get("CAPITULO"):
+                self.sec_inside[1] += 1
+            elif self.open.get("TITULO"):
+                self.sec_tit += 1
+            else:
+                self.sec_inside[0] += 1
         elif r:
             for k in list(self.open):
                 if RANK.get(k, 0) >= r:
@@ -190,8 +196,11 @@ class Builder:
     def finish(self):
         self.flush()
         rank = dict(RANK)
-        if self.sec_inside[1] > self.sec_inside[0]:
+        top, in_cap, in_tit = self.sec_inside[0], self.sec_inside[1], self.sec_tit
+        if in_cap > top and in_cap >= in_tit:
             rank["SECCION"] = 5.5
+        elif in_tit > top:
+            rank["SECCION"] = 4.7
         used = sorted({rank[k] for k, _ in (o for o in self.out if isinstance(o, tuple)) if k in rank})
         lvl = {r: min(2 + i, self.max_level) for i, r in enumerate(used)}
         res = []
@@ -217,6 +226,8 @@ class Builder:
 
 def lines_to_md(pages_lines, article_word="Artículo"):
     lines = [l for ls in pages_lines for l in ls]
+    lens = sorted(len(l.strip()) for l in lines if len(l.strip()) > 20)
+    width = lens[int(len(lens) * 0.8)] if lens else 80
     b = Builder()
     last_num = [None]
     i = 0
@@ -308,7 +319,10 @@ def lines_to_md(pages_lines, article_word="Artículo"):
                 new_para = True
             elif raw.startswith(" ") and prev.endswith((".", ":", ";")):
                 new_para = True
-            elif prev.endswith((".", ":", ";", ".”", ".\"")) and s[:1].isupper() and len(prev) < 45:
+            elif prev.endswith((".", ":", ";", ".”", ".\"")) and s[:1].isupper() and len(prev) < max(45, 0.8 * width):
+                new_para = True
+            elif re.match(r"(Considerando|CONSIDERANDO|Vista|Visto|VISTA|VISTO|POR TANTO|Por tanto|HA DADO|DADA|Dada|Dado|DADO)\b", s) \
+                    and prev.endswith((".", ":", ";")):
                 new_para = True
             if new_para:
                 b.flush()
