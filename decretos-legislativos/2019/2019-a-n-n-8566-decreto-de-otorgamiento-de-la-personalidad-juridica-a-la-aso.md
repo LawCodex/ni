@@ -1,0 +1,76 @@
+---
+title: Decreto de Otorgamiento de la Personalidad Jurídica a la Asociación de Iglesias Evangélicas, Oasis de Esperanza, &quot;ADIE-ODENIC&quot;
+identifier: Decreto Legislativo N° A.N. N°. 8566
+type: legislative-decree
+jurisdiction: ni
+language: es
+date: '2019-07-02'
+status: unknown
+source: http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/6B83DB8BBB3E3A380625842C005D2FF2?OpenDocument
+latest_version: null
+retrieved: '2026-10-13'
+---
+
+# Decreto de Otorgamiento de la Personalidad Jurídica a la Asociación de Iglesias Evangélicas, Oasis de Esperanza, &quot;ADIE-ODENIC&quot;
+
+> Normas Jurídicas de Nicaragua (Asamblea Nacional) — Decretos Legislativos.
+
+DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN DE IGLESIAS EVANGÉLICAS, OASIS DE ESPERANZA, "ADIE-ODENIC"
+
+DECRETO LEGISLATIVO A.N. N°. 8566,
+
+aprobado el 26 de junio de 2019
+
+Publicado en La Gaceta, Diario Oficial N
+
+°. 124 del 02 de julio de 2019
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+El siguiente decreto:
+
+DECRETO A.N. N°. 8566
+
+DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN DE IGLESIAS EVANGÉLICAS, OASIS DE ESPERANZA, "ADIE-ODENIC"
+
+Artículo. 1
+
+Otórguese Personalidad Jurídica a la
+
+ASOCIACIÓN DE IGLESIAS EVANGÉLICAS, OASIS DE ESPERANZA,
+
+a la que también se le podrá conocer como:
+
+"ADIE-ODENIC";
+
+sin fines de lucro, de duración indefinida y con domicilio en el Municipio de San Rafael del Sur.
+
+Artículo. 2
+
+La representación legal de esta Asociación, será ejercida en la forma que determinen su Escritura de Constitución y sus Estatutos.
+
+Artículo. 3 La ASOCIACIÓN DE IGLESIAS EVANGÉLICAS, OASIS DE ESPERANZA,
+
+a la que también se le podrá conocer como:
+
+"ADIE-ODENIC";
+
+estará obligada al cumplimiento de la Ley 14 7, Ley General sobre Personas Jurídicas sin Fines de Lucro y demás Leyes de la República.
+
+Artículo. 4
+
+El presente Decreto entrará en vigencia a partir de la fecha de su publicación en La Gaceta, Diario Oficial. Por tanto: Publíquese.
+
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional de la República de Nicaragua, a los veintiséis días del mes de junio del año dos mil diecinueve.
+
+Dr. Gustavo Eduardo Porras Cortés,
+
+Presidente Asamblea Nacional.
+
+Lic. Loria Raquel Dixon Brautigam,
+
+Primera Secretaria Asamblea Nacional.

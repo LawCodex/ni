@@ -1,0 +1,84 @@
+---
+title: (OTÓRGASE PERSONALIDAD JURÍDICA A LA “FUNDACIÓN PARA EL DESARROLLO SOSTENIBLE DE RIO SAN JUAN”, “FUNDESO RSJ”)
+identifier: Decreto Legislativo N° A.N. N°. 4331
+type: legislative-decree
+jurisdiction: ni
+language: es
+date: '2005-11-03'
+status: unknown
+source: http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/FD7AA2ED1A056CDB06258899005E8E2E?OpenDocument
+latest_version: null
+retrieved: '2026-10-13'
+---
+
+# (OTÓRGASE PERSONALIDAD JURÍDICA A LA “FUNDACIÓN PARA EL DESARROLLO SOSTENIBLE DE RIO SAN JUAN”, “FUNDESO RSJ”)
+
+> Normas Jurídicas de Nicaragua (Asamblea Nacional) — Decretos Legislativos.
+
+Enlace a Legislación Relacionada
+
+Sin Vigencia
+
+(OTÓRGASE PERSONALIDAD JURÍDICA A LA “FUNDACIÓN PARA EL DESARROLLO SOSTENIBLE DE RIO SAN JUAN”, “FUNDESO RSJ”)
+
+DECRETO A.N. N°. 4331,
+
+aprobado el 15 de junio de 2005
+
+Publicado en La Gaceta, Diario Oficial N°. 213 del 03 de noviembre de 2005
+
+DECRETO A.N. No. 4331
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+El siguiente:
+
+DECRETO
+
+Arto. 1.
+
+Otórgase Personalidad Jurídica a la
+
+“FUNDACIÓN PARA EL DESARROLLO SOSTENIBLE DE RIO SAN JUAN”, “FUNDESO RSJ”,
+
+sin fines de lucro, de duración indefinida y con domicilio en el municipio de San Carlos, Departamento de Río San Juan.
+
+Arto. 2.
+
+La representación legal de esta Fundación será ejercida en la forma que determinen sus Estatutos.
+
+Arto. 3.
+
+La
+
+“FUNDACIÓN PARA EL DESARROLLO SOSTENIBLE DE RIO SAN JUAN”, “FUNDESO RSJ”,
+
+estará obligada al cumplimiento de la Ley General sobre Personas Jurídicas, sin Fines de Lucro y demás Leyes de la República.
+
+Arto. 4.
+
+El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
+
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los quince días del mes de junio del año dos mil cinco.
+
+RENE NUÑEZ TÉLLEZ,
+
+Presidente de la Asamblea Nacional.
+
+MARIA AUXILIADORA ALEMÁN ZEAS,
+
+Secretaria de la Asamblea Nacional.
+
+Por tanto: Publíquese y Ejecútese. Managua, uno de julio del año dos mil cinco.
+
+ENRIQUE BOLAÑOS GEYER,
+
+Presidente de la República de Nicaragua.

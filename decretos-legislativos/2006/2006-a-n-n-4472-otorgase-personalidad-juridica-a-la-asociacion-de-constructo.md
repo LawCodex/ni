@@ -1,0 +1,80 @@
+---
+title: (OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN DE CONSTRUCTORES DE SIUNA, ACOSIU)
+identifier: Decreto Legislativo N° A.N. N°. 4472
+type: legislative-decree
+jurisdiction: ni
+language: es
+date: '2006-07-27'
+status: unknown
+source: http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/38205434FB61D20D0625888C00675587?OpenDocument
+latest_version: null
+retrieved: '2026-10-13'
+---
+
+# (OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN DE CONSTRUCTORES DE SIUNA, ACOSIU)
+
+> Normas Jurídicas de Nicaragua (Asamblea Nacional) — Decretos Legislativos.
+
+Enlace a Legislación Relacionada
+
+Sin Vigencia
+
+(OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN DE CONSTRUCTORES DE SIUNA, ACOSIU)
+
+DECRETO A.N. N°. 4472,
+
+aprobado el 22 de febrero de 2006
+
+Publicado en La Gaceta, Diario Oficial N°. 145 del 27 de julio de 2006
+
+DECRETO A.N. No. 4472
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+El siguiente:
+
+DECRETO
+
+Arto. 1
+
+. Otórgase Personalidad Jurídica a la
+
+ASOCIACIÓN DE CONSTRUCTORES DE SIUNA, ACOSIU,
+
+sin fines de lucro, de duración indefinida y con domicilio en la Ciudad de Siuna, Región Autónoma del Atlántico Norte (RAAN).
+
+Arto. 2.
+
+La representación legal de esta Asociación será ejercida en la forma que determinen sus Estatutos.
+
+Arto. 3.
+
+La
+
+ASOCIACIÓN DE CONSTRUCTORES DE SIUNA, ACOSIU,
+
+estará obligada al cumplimiento de la Ley General sobre Personas Jurídicas sin Fines de Lucro y demás Leyes de la República.
+
+Arto. 4.
+
+El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
+
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los veintidós días del mes de Febrero del año dos mil seis.
+
+EDUARDO GÓMEZ LÓPEZ,
+
+Presidente de la Asamblea Nacional.-
+
+MARÍA AUXILIADORA ALEMÁN ZEAS,
+
+Secretaria de la Asamblea Nacional.
+
+Por tanto: Publíquese y Ejecútese. Managua, catorce de marzo del año dos mil seis. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.

@@ -1,0 +1,72 @@
+---
+title: DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO, (CLUB ROTARIO DE CS)
+identifier: Decreto Legislativo N° A.N. Nº. 8685
+type: legislative-decree
+jurisdiction: ni
+language: es
+date: '2020-06-15'
+status: unknown
+source: http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/107D9B21EF772EB406258589007B9428?OpenDocument
+latest_version: null
+retrieved: '2026-10-13'
+---
+
+# DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO, (CLUB ROTARIO DE CS)
+
+> Normas Jurídicas de Nicaragua (Asamblea Nacional) — Decretos Legislativos.
+
+DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO, (CLUB ROTARIO DE CS)
+
+DECRETO A.N. Nº. 8685,
+
+aprobado el 02 de junio de 2020
+
+Publicado en La Gaceta, Diario Oficial N°.108 del 15 de junio de 2020
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+El siguiente:
+
+DECRETO A.N. Nº. 8685
+
+DECRETO DE OTORGAMIENTO DE LA PERSONALIDAD JURÍDICA A LA ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO, (CLUB ROTARIO DE CS)
+
+###### Artículo 1
+
+Otórguese Personalidad Jurídica a la
+
+ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO,
+
+la que podrá conocerse de forma abreviada
+
+CLUB ROTARIO DE CS;
+
+sin fines de lucro, de duración indefinida y con domicilio en la Ciudad de Managua, Departamento del mismo nombre.
+
+###### Artículo 2
+
+La representación legal de esta Asociación, será ejercida en la forma que determinen su Escritura de Constitución y sus Estatutos.
+
+###### Artículo 3
+
+ASOCIACIÓN CLUB ROTARIO DE CIUDAD SANDINO,
+
+la que podrá conocerse de forma abreviada
+
+CLUB ROTARIO DE CS;
+
+estará obligada al cumplimiento de la Ley Nº. 147, Ley General sobre Personas Jurídicas sin Fines de Lucro y demás Leyes de la República.
+
+###### Artículo 4
+
+El presente Decreto entrará en vigencia a partir de la fecha de su publicación en La Gaceta, Diario Oficial. Por tanto: Publíquese.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los dos días del mes de junio del año dos mil veinte.
+
+MSP. Loria Raquel Dixon Brautigam,
+
+Primera Secretaria de la Asamblea Nacional.

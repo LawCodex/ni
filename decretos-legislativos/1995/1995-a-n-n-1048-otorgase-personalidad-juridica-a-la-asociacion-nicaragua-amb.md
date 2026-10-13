@@ -1,0 +1,74 @@
+---
+title: OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN NICARAGUA AMBIENTAL (NICAMBIENTAL)
+identifier: Decreto Legislativo N° A.N. N°. 1048
+type: legislative-decree
+jurisdiction: ni
+language: es
+date: '1995-10-10'
+status: unknown
+source: http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/230DCAF85679519406258862005E3228?OpenDocument
+latest_version: null
+retrieved: '2026-10-13'
+---
+
+# OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN NICARAGUA AMBIENTAL (NICAMBIENTAL)
+
+> Normas Jurídicas de Nicaragua (Asamblea Nacional) — Decretos Legislativos.
+
+Enlace a Legislación Relacionada
+
+Sin Vigencia
+
+OTÓRGASE PERSONALIDAD JURÍDICA A LA ASOCIACIÓN NICARAGUA AMBIENTAL (NICAMBIENTAL)
+
+Decreto A.N. N°. 1048,
+
+aprobado el 19 de septiembre de 1995
+
+Publicado en La Gaceta, Diario Oficial N°. 189 del 10 de octubre de 1995
+
+El Presidente de la República de Nicaragua
+
+Hace saber al pueblo nicaragüense que;
+
+La Asamblea Nacional de la República de Nicaragua
+
+En uso de sus facultades;
+
+Ha Dictado
+
+El Siguiente:
+
+Decreto
+
+Arto. 1.-
+
+Otórguese Personalidad Jurídica a la Asociación Nicaragua Ambiental (Nicambiental), Asociación Civil sin fines de lucro, de duración indefinida y del domicilio en la Ciudad de Managua.
+
+Arto- 2.-
+
+La representación, legal de esta Asociación será ejercida en la forma que determinen sus Estatutos.
+
+Arto. 3.-
+
+La Asociación Nicaragua Ambiental (Nicambiental), estará obligada al cumplimiento de la Ley General sobre Personas Jurídicas sin fines de Lucro y demás leyes de la República.
+
+Arto. 4.-
+
+El presente Decreto entrará en vigencia desde la fecha de su publicación en La Gaceta, Diario Oficial.
+
+Dado en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los diecinueve días del mes de Septiembre de mil novecientos noventa y cinco.
+
+Luis Humberto Guzmán,
+
+Presidente de la Asamblea Nacional
+
+Julia Mena Rivera,
+
+Secretaría de la Asamblea Nacional
+
+Por tanto: Publíquese y Ejecútese Managua, cuatro de Octubre de mil novecientos noventa y cinco
+
+Violeta Barrios de Chamorro
+
+Presidente de la República de Nicaragua.
